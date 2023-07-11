@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/cc/static/js/main.fc7a2370.js",
+    "static/media/btc.png": "/cc/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/img11.jpeg": "/cc/static/media/img11.f1adb9a6d44942139ae7.jpeg",
+    "index.html": "/cc/index.html",
+    "main.fc7a2370.js.map": "/cc/static/js/main.fc7a2370.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc7a2370.js"
+  ]
+}
