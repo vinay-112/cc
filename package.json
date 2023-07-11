@@ -1,6 +1,6 @@
 {
   "name": "three",
-  "homepage": "http://vinay-112.github.io/Cryptocurrency-website" ,
+  "homepage": "http://vinay-112.github.io/Cryptocurrency",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,8 @@
     "chart.js": "^3.9.1",
     "framer-motion": "^7.5.3",
     "gh-pages": "^5.0.0",
+    "github": "^14.0.0",
+    "pages": "^0.0.16",
     "react": "^18.2.0",
     "react-chartjs-2": "^4.3.1",
     "react-dom": "^18.2.0",
@@ -28,8 +30,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
